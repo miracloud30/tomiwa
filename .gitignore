@@ -1,0 +1,9 @@
+#we choose to ignore the following files
+
+.env
+
+academy/
+
+fernwood-fleet-deploy/
+
+node-modules/
